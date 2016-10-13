@@ -14,4 +14,4 @@ If grunt isn't installed globaly, install it:
 
 Then run from project root via:
 
-```grunt```
+```dasf grunt```
