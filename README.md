@@ -5,10 +5,13 @@ Answer to question http://stackoverflow.com/questions/40011711/gruntjs-how-to-li
 
 
 To run install dependencies first:
+
 ```npm install```
 
 If grunt isn't installed globaly, install it:
+
 ```npm install grunt -g```
 
 Then run from project root via:
+
 ```grunt```
