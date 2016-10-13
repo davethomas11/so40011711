@@ -1,0 +1,19 @@
+{
+  "name": "so40011711",
+  "version": "1.0.0",
+  "description": "Answer to StackOverflow question",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "davethomas11@icloud.com",
+  "license": "ISC",
+  "devDependencies": {
+    "bluebird": "^3.4.6",
+    "grunt": "^1.0.1",
+    "htmltidy": "0.0.6",
+    "pug": "^2.0.0-beta6",
+    "xmldom": "^0.1.22",
+    "xpath": "0.0.23"
+  }
+}

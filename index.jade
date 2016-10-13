@@ -1,0 +1,13 @@
+doctype html
+html(lang="en")
+  head
+    title="Stackoverflow Question 40011711"
+  body
+    table
+      - files.forEach(function (item) {
+        tr
+          td
+            a(href=item.path)=item.parameters.tags["title"]
+          td=item.parameters.attributes["data-status"]
+          td=item.parameters.attributes["data-details"]
+      - })
